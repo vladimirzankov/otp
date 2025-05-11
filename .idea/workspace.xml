@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afcdd831-ae76-4f99-b899-f400b52d5965" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/VerificationServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/VerificationServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/ConfigurationInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/ConfigurationInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/EmailConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/EmailConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/TokenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/TokenController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/PhoneNumberUpdateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/PhoneNumberUpdateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/RegisterRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/TokenGenerationRequest$DeliveryMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/TokenGenerationRequest$DeliveryMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/TokenGenerationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/TokenGenerationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/TokenValidationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/dto/TokenValidationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/interceptor/LoggingInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/interceptor/LoggingInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/TokenConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/TokenConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/VerificationToken$TokenState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/VerificationToken$TokenState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/VerificationToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/model/VerificationToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/repository/TokenConfigurationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/repository/TokenConfigurationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/repository/VerificationTokenRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/repository/VerificationTokenRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/security/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/security/CustomUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/security/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/security/JwtAuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/security/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/security/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/TelegramBotService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/TelegramBotService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/TokenService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/TokenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/TokenService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secureauth/verification/service/UserService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wxtp3GO8bD7hkrAW2sXm7CNQsE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.OtpServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecureAuthApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificationServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.zankov.otp.OtpServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OtpServiceApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vv_zankov/Developer/Mephi/Instruments/otp&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.VerificationServiceApplication">
+    <configuration name="OtpServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leralee.otpservice.OtpServiceApplication" />
+      <module name="otp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leralee.otpservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecureAuthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zankov.secureauth.SecureAuthApplication" />
+      <module name="otp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zankov.secureauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerificationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.secureauth.verification.VerificationServiceApplication" />
+      <module name="otp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.secureauth.verification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.zankov.otp.OtpServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zankov.otp.OtpServiceApplication" />
+      <module name="otp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zankov.otp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtpServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="otp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leralee.otpservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leralee.otpservice" />
+      <option name="MAIN_CLASS_NAME" value="com.leralee.otpservice.OtpServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="otp-service3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="otp-service3" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VerificationServiceApplication" />
+        <item itemvalue="Application.com.zankov.otp.OtpServiceApplication" />
+        <item itemvalue="Application.OtpServiceApplication" />
+        <item itemvalue="JUnit.OtpServiceApplicationTests" />
+        <item itemvalue="Application.SecureAuthApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afcdd831-ae76-4f99-b899-f400b52d5965" name="Changes" comment="" />
+      <created>1746995232027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746995232027</updated>
+    </task>
+    <servers />
+  </component>
+</project>
